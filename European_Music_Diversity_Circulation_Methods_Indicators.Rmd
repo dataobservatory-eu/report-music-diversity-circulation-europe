@@ -1,4 +1,5 @@
 ---
+
 title: "Music diversity and circulation: Novel data collection methods and indicators"
 subtitle: "DOI: 10.5281/zenodo.6465135"
 author:
@@ -32,6 +33,7 @@ bibliography:
 - rpackages.bib
 - valuation.bib
 - valuegap.bib
+
 ---
 
 ```{r setupdmoeconomypillar, include=FALSE}
@@ -51,5 +53,7 @@ The aim of this document is to *share an open report that includes clear account
 
 Subjects: [Reproducible research](https://id.loc.gov/authorities/subjects/sh2013002574.html); [Cultural diversity policies](https://id.loc.gov/authorities/subjects/sh93001610.html); [Music industry](https://id.loc.gov/authorities/subjects/sh85088944.html)
 [Recommender systems (Information filtering)](https://id.loc.gov/authorities/subjects/sh2007003098.html)
+
+You can find the repository of this document on [GitHub](https://openmuse.dataobservatory.eu/resources/report-music-diversity-circulation/)
 
 Antal, Daniel, Scanga, Cateriana, & Molina, Andrés GJ. (2022). Music diversity and circulation: Novel data collection methods and indicators (0.1). Zenodo. https://doi.org/10.5281/zenodo.6465135
