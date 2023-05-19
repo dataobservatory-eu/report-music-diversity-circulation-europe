@@ -5,6 +5,7 @@ author:
 - Daniel Antal, CFA, Reprex & University of Amsterdam
 - Scanga, Cateriana, PhD, Scuola Superiore Sant'Anna
 - Molina, Andrés GJ, PhD, Reprex
+- Dominika, Semaňáková, SOZA
 date: "`r Sys.Date()`"
 output:
   pdf_document: default
